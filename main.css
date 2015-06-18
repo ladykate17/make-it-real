@@ -1,0 +1,66 @@
+/* CSS Document */
+body {
+	background-color: rgb(127, 140, 141);
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	color: #FFF;
+}
+
+h4 {
+	padding: 0px;
+}
+
+.all-components-wrap {
+	margin: auto;
+}
+
+.container {
+	background-color: rgb(236, 240, 241);
+	max-width: 960px;
+	margin: auto;
+	padding: 0px 20px;
+}
+
+header {	
+	background-color: rgb(46, 204, 113);
+	border-bottom: 4px rgba(0, 0, 0, 0.5);
+
+}
+
+nav {
+	background-color: rgb(52, 73, 94);
+	height: 30px;
+	border-bottom: 4px rgba(0, 0, 0, 0.5);
+}
+
+.nav-link {
+	display: inline-block;
+	color: rgb(255, 255, 255);
+}
+
+.sidebar {
+	background-color: rgb(236, 240, 241); 
+	float: left;
+	position: relative;
+	top: 200px;
+}
+
+.side-link {
+	display: block;
+	color: rgb(102, 102, 102);
+}
+
+.blockquote {
+	background-color: rgb(189, 195, 199);	
+	padding: 20px 30px;
+}
+
+.section-title{
+	/*padding: 10px;*/
+	border-bottom: solid 1px rgb(189, 195, 199);
+}
